@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I’m currently working on a web version of the webmaster's guide. 
-- I’m currently learning с/c++ and improve my javascript/typescript proficiency
+- I’m currently learning с/c++, node.js and improve my javascript/typescript proficiency
 
 <!--
 **mgoriachev/mgoriachev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
