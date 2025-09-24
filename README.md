@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 const me = {
   basis: [javascript],
   tools: [typescriopt, react, redux, vue, pinia, react-native],
-  studiying: [node, v8, web3, angular]
+  studiying: [node, v8, web3, angular],
 }
 ```
